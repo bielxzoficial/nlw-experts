@@ -1,5 +1,3 @@
-# nlw-experts
-
 ## Tecnologias Utilizadas
 
 - Html
